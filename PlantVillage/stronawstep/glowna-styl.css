@@ -1,0 +1,110 @@
+.carousel-item {
+	width: 1349px;
+	height: 450px;
+}
+.carousel-item active {
+	width: 1349px;
+	height: 450px;
+}
+.d-block.w-100 {
+	width: 1349px;
+	height: 450px;
+}
+
+.navbar-dark {
+	background: repeat url("tlo.png");
+}
+
+body {
+	
+	color: white;
+	 background-image: url("liscie.jpg");
+  background-repeat: repeat-y-x;
+   background-attachment: fixed;
+}
+.container {
+	background-color: #211c19;
+	color: white;
+	
+	border-style: solid;
+	border-color: #6E5D53;
+}
+
+h2 {
+	background-color: #6E4932;
+	text-align: center;
+	margin-left: 420px;
+	margin-right: 420px;
+	border-style: solid;
+	border-color: #6E5D53;
+	border-radius: 5px;
+}
+
+#onaszdj {
+	border-style: solid;
+	border-color: #da9186;
+}
+
+footer {
+	text-align: center;
+	background-color: #162524;
+	margin-bottom: 0px;
+	border-style: solid;
+	border-color: #161616;
+}
+
+.card {
+	margin: auto;
+	border-style: solid;
+	border-color: #da9186;
+	border-width: 3px;
+}
+
+#aktualnosci {
+	border-bottom: none;
+}
+#kartki {
+	border-top: none;
+}
+
+.card-body {
+background-color: #2c2a2a;
+border-top-style: solid;
+border-top-color: #1a857a;
+
+}
+.btn.btn-primary {
+	background-color: hsla(120, 60%, 0%, 0.3);
+	border-style: solid;
+	border-color: #da9186;
+	border-width: 2px;
+	
+	 transition-duration: 0.4s;
+	 
+}
+
+
+.btn.btn-primary:hover {
+  background-color: #da9186;
+  color: black;
+}
+.btn.btn-outline-success {
+	background-color: hsla(120, 60%, 0%, 0.3);
+	border-style: solid;
+	border-color: #6a6969;
+	border-width: 2px;
+	color: #6a6969;
+	
+	 transition-duration: 0.4s;
+}
+.btn.btn-outline-success:hover {
+  background-color: #162524;
+  color: white;
+}
+.form-control {
+	background-color: #333333;
+	color: #6a6969;
+	border-style: solid;
+	border-color: #6a6969;
+	border-width: 1px;
+}
