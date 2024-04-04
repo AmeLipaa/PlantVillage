@@ -1,0 +1,183 @@
+footer {
+	text-align: center;
+	background-color: #162524;
+	margin-bottom: 0px;
+	border-style: solid;
+	border-color: #161616;
+}
+#produkty {
+	margin: auto;
+	text-align: center;
+}
+
+
+.d-inline-block.align-text-bottom {
+	margin-left: auto;
+  margin-right: 5px;
+  text-align: center;
+
+  vertical-align: bottom; 
+ 
+ font-size: 100px;
+
+}
+
+.navbar-brand{
+	 font-size: 25px;
+}
+
+.d-flex {
+	margin-left: auto;
+  margin-right: 5px;
+}
+.collapse.navbar-collapse {
+	line-height: 25px;
+  height: 25px;
+  
+  vertical-align: bottom; 
+}
+
+.navbar.sticky-top.navbar-expand-lg.navbar-dark.bg-light {
+	
+	 padding: 10px 0;
+	 text-align: center;
+}
+
+
+.list-group.list-group-horizontal-xl {
+	margin: auto;
+	text-align: center;
+}
+
+.list-group-item {
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #211c19;
+	color: white;
+
+}
+
+.container {
+	margin: auto;
+	text-align: center;
+}
+
+.card {
+	margin: auto;
+	text-align: center;
+	border-style: solid;
+	border-color: #da9186;
+	border-width: 3px;
+}
+	
+.card-body {
+background-color: #2c2a2a;
+border-top-style: solid;
+border-top-color: #1a857a;
+
+}
+.btn.btn-primary {
+	background-color: hsla(120, 60%, 0%, 0.3);
+	border-style: solid;
+	border-color: #da9186;
+	border-width: 2px;
+	
+	 transition-duration: 0.4s;
+	 
+}
+
+
+.btn.btn-primary:hover {
+  background-color: #da9186;
+  color: black;
+}
+.btn.btn-outline-success {
+	background-color: hsla(120, 60%, 0%, 0.3);
+	border-style: solid;
+	border-color: #6a6969;
+	border-width: 2px;
+	color: #6a6969;
+	
+	 transition-duration: 0.4s;
+}
+.btn.btn-outline-success:hover {
+  background-color: #162524;
+  color: white;
+}
+.form-control {
+	background-color: #333333;
+	color: #6a6969;
+	border-style: solid;
+	border-color: #6a6969;
+	border-width: 1px;
+}	
+	
+}
+.card-img-top {
+	width: 200px;
+	height: 200px;
+}
+.navbar-dark {
+	background: repeat url("tlo.png");
+}
+
+body {
+	
+	color: white;
+	 background-image: url("liscie.jpg");
+  background-repeat: repeat-y-x;
+   background-attachment: fixed;
+}
+
+#aaa {
+	background: repeat url("tlo.png");
+}
+
+
+.page-link {
+	border-style: solid;
+border-color: #da9186;
+border-width: 2px;
+background-color: #2c2a2a;
+color: white;
+}
+
+#dis {
+border-style: solid;
+border-color: #da9186;
+border-width: 2px;
+background-color: #979797;
+color: black;
+
+}
+
+.page-link:hover {
+	border-style: solid;
+border-color: #da9186;
+border-width: 2px;
+background-color: #da9186;
+color: black;
+}
+
+.dropdown-menu {
+	background-color: #2c2a2a;
+	color: white;
+}
+
+.dropdown-item {
+	background-color: #2c2a2a;
+	color: white;
+}
+
+.dropdown-item.active {
+	background-color: #da9186;
+	color: black;
+}
+
+
+.dropdown-item:hover {
+	background-color: #333333;
+	color: #6a6969;
+}
